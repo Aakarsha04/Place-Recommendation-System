@@ -1,0 +1,19 @@
+# Large dataset files (do not upload to GitHub)
+Data/training_data.csv
+Data/clean_training_data.csv
+
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model and temporary files
+*.log
+.DS_Store
+Thumbs.db
